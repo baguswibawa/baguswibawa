@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baguswibawa
-- 👀 I’m interested in Product Augmentation
+- 👀 I’m interested in Product Development
 - 🌱 I’m currently learning Data Science at Purwadhika Digital School
 - ✌️ I’m looking to collaborate on any enhancing product
 - 📫 HMU by email bagus.eswe25@gmail.com
